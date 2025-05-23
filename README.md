@@ -57,6 +57,6 @@ openssl.cafile = "C:\Program Files\php\extras\ssl\cacert.pem"
 
 
 
-![image](https://github.com/user-attachments/assets/51ec3b35-8b55-4e58-b24e-3ecb01f043a3)
+![Evidencia de pruebas (tambien se puede ver la imagen en images y evidencia.png)](https://github.com/user-attachments/assets/51ec3b35-8b55-4e58-b24e-3ecb01f043a3)
 
 
